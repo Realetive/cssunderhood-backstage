@@ -55,6 +55,7 @@ CSSUnderhood. Неопубликованное
 * [VC.ru](//vc.ru/feed)
 * [Советы Бюро Артемия Горбунова](//artgorbunov.ru/bb/soviet/rss/)
 * [Занудный адаптивный блог](//maximilyahov.ru/blog/rss/) Максима Ильяхова о редактуре текста
+* [Юрий Ветров об интерфейсах](//feeds.feedburner.com/jvetrau) – качественные подборки на тему дизайна и его технической реализации
 
 ### Email-подписки
 
@@ -96,6 +97,8 @@ iTerm2 для терминала + `zsh` и `oh my zsh` (`ZSH_THEME="wedisagree"
 
 [Sunrise Calendar](//calendar.sunrise.am/) позволяет спланировать события из нескольких аккаутов: Google, iCloud, Wunderlist, Evernote, Trello и других.
 
+> NB! Через пару месяцев Sunrise Calendar прекратит своё существования, будучи поглощённым M$ Outlook.
+
 ![Sunrise Calendar](images/sunrisecalendar.png)
 
 [Wunderlist](//www.wunderlist.com) – список задач с возможность группировки в категории, подзадачи, назначение ответственных. Есть ещё [Todoist](//ru.todoist.com/) со сходим функционал и не меньшим количеством поклонников.
@@ -121,7 +124,7 @@ iTerm2 для терминала + `zsh` и `oh my zsh` (`ZSH_THEME="wedisagree"
 
 [Babe Holder](//babeholder.pixoil.com/) – <abbr title="«Not safe for work», небезопасно для работы">NSFW</abbr>-плейсхолдер картинок для ваших проектов (если заказчик ещё не предоставил контент).
 
-[Colorable](//jxnblk.com/colorable) – сервис и npm-пакет для подбора (и тестирования) котраста цветов по WCAG.
+[Colorable](//jxnblk.com/colorable) – сервис и npm-пакет для подбора (и тестирования) контраста цветов по WCAG.
 
 [Paletton](//paletton.com) – помогает подобрать цветовую паллитру по нескольким алгоритмам.
 
